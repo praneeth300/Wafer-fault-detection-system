@@ -1,5 +1,27 @@
 # Wafer-fault-detection-system
 
+### Tools used:
+1. Jupyter Notebook
+2. Pycharm
+3. Google colab
+4. Data Bricks
+5. Git
+
+### DataBases
+1. MongoDB
+2. Sqlite
+
+### Cloud
+1. Azure
+2. Heroku
+
+### Languages used
+1. Python
+
+### Website
+1. HTML
+2. CSS
+
 ### Problem Statement
 To build a classification methodology to predict the quality of wafer sensors
 based on the given training data. 
